@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sXIX8W4zPhIzMcKJ629AV9Sdm/nt2PVpFwuvKWDchpRDaeHrDvJGlSz37TmeUV8kliK9twtmCCCk3zDL6Odfpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\y.fomenkov\\RiderProjects\\TestTakeSpeed\\TestDependencyInjection\\TestDependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\y.fomenkov\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\y.fomenkov\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\y.fomenkov\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

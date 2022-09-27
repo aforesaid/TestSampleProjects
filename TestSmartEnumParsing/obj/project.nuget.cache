@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "y7+5bnFbf9CpvuO2p/vW5BB6IznewI6UX5+xkhmqc4j9wdfYPnwM2Kl4b+r4OKip1wC7T/CIaNE37e9aq6jhdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\y.fomenkov\\RiderProjects\\TestTakeSpeed\\TestSmartEnumParsing\\TestSmartEnumParsing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\y.fomenkov\\.nuget\\packages\\ardalis.smartenum\\2.1.0\\ardalis.smartenum.2.1.0.nupkg.sha512",
+    "C:\\Users\\y.fomenkov\\.nuget\\packages\\ardalis.smartenum.jsonnet\\2.1.0\\ardalis.smartenum.jsonnet.2.1.0.nupkg.sha512",
+    "C:\\Users\\y.fomenkov\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
